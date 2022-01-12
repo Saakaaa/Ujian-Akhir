@@ -12,7 +12,7 @@ memasukkan data.
 pilihan yang memanggil semua menu
 yang ada)
 ## Tampilan package dan modul 
-![Gambar1](foto5.PNG)
+![](foto5.png)
 ## Berikut tampilan progrramnnya
 ```python
 from view.input_nilai import *
