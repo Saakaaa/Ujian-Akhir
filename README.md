@@ -130,13 +130,13 @@ while True:
 - diatas adalah program untuk modul main.py
 
 # Berikut tampilan hasil program ketika dijalankan
-![](foto1.PNG)
+![](foto1.png)
 - diatas tampilan untuk menambahkan data dengan menginputkan huruf t dan l
-![](foto2.PNG)
+![](foto2.png)
 - diatas tampilan untuk menghapus salah satu data dengan menginputkan huruf h
-![](foto3.PNG)
+![](foto3.png)
 - diatas tampilan untuk mencari data, dengan menginputkan huruf c dan dilanjutkan memasukan keywords nama
-![](foto4.PNG)
+![](foto4.png)
 - diatas tampilan untuk keluar atau menutup program
 
 ## SELESAI
